@@ -1,8 +1,8 @@
-using System;
+namespace Calc
+{
 
-namespace Calc{
-
-    class Addition{
+    class Addition
+    {
 
         public int Add(int a, int b)
         {

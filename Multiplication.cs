@@ -1,5 +1,3 @@
-using System;
-
 namespace Calc
 {
     class Multiplication
